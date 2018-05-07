@@ -1,0 +1,17 @@
+IFPB - CST em Sistemas para Internet 
+Programação Orientada a Objetos - Fausto Maranhão Ayres 
+ 
+O Jogo da Forca
+
+É um jogo em que o jogador tem que acertar qual é a palavra proposta, 
+tendo como dica o tema ligado à palavra. Para começar o jogo se exibe 
+todas as letras da palavra com um *. Por exemplo, para uma palavra de 10 letras: 
+* * * * * * * * * * 
+
+O jogador digita cada letra que pode existir na palavra. Quando ele acerta,a letra
+é revelada no lugar do * e quando ele erra, é exibida uma parte do corpo do enforcado
+(iniciando pela cabeça, tronco, braços…). O jogador pode optar a qualquer momento por 
+adivinhar a palavra inteira. Neste caso, se errar ele perde o jogo na hora. 
+
+O jogo termina com o acerto de todas as letras da palavra ou com o enforcamento (seis erros). 
+ 

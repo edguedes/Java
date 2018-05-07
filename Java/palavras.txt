@@ -1,0 +1,9 @@
+abacate;fruta mais rica em nutrientes
+cidade;local onde maior parte da população brasileira vive
+roupa;para não ficar pelados usamos isso
+cavalo;animal mamífero usado para corridas com montaria
+bolsa;utensílio muito usado por mulhreres
+janela;metáfora, no singular, que dá nome ao sistema operacional mais popular do mundo, versão traduziada para o português
+rural;área onde se produz alimentos
+tomate;fruto do tomateiro
+jambo;fruto do jambeiro
